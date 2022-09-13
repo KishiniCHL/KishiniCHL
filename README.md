@@ -14,3 +14,5 @@
 ![7599128](https://user-images.githubusercontent.com/108990733/189881121-5fd73caf-7da4-455d-9d9f-25f410fe0fc5.jpg)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishiniCHL&show_icons=true&theme=material-palenight))](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishiniCHL&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
