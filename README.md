@@ -1,7 +1,6 @@
 ![Cover](img/kirbycover.png)
 
-# Bienvenue sur mon profil #
-
+<h1 align="center">Bienvenue sur mon profil</h1>
 
 ------
 <p align="center">
