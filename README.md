@@ -2,6 +2,14 @@
 
 # Bienvenue sur mon profil #
 
+
+------
+<p align="center">
+  <img align="center" alt="Coding" width="400" src="img/163803.gif">
+</p>
+
+------
+
 ## Introduction ##
 
 
@@ -10,12 +18,6 @@
 - Allo :clown_face:
 
 
-------
-<p align="center">
-  <img align="center" alt="Coding" width="400" src="img/163803.gif">
-</p>
-
-------
 
 
 ### test ###  
