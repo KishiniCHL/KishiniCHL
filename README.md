@@ -3,6 +3,9 @@
 <h1 align="center">Bienvenue sur mon profil</h1>
 
 ------
+
+![](https://komarev.com/ghpvc/?username=KishiniCHL&color=blueviolet&style=flat-square)
+
 <p align="center">
   <img align="center" alt="Coding" width="400" src="img/163803.gif">
 </p>
@@ -29,3 +32,5 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/hoai-lan-dinh-vu-17a98823b/" target="blank"><img align="center" src="img/linkdin.png" alt="" height="40" width="40" /></a>
 </p>
+
+
