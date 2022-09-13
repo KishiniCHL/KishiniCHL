@@ -3,6 +3,6 @@
 ## Introduction ##
 
 
-Test de texte 
-J'aime bien kirby 
-Allo
+- Test de texte :rocket:
+- J'aime bien kirby :monocle_face:
+- Allo :clown_face:
