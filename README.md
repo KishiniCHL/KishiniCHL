@@ -59,7 +59,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kishini&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kishini&redirect=true)
 
 
-<h3 align="left"Contact me :</h3>
+<h3 align="left">Contact me :</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/hoai-lan-dinh-vu-17a98823b/" target="blank"><img align="center" src="img/linkdin.png" alt="" height="40" width="40" /></a>
 </p>
