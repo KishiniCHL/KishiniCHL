@@ -39,13 +39,6 @@
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
 
-## Introduction ##
-
-
-- Test de texte :rocket:
-- J'aime bien kirby :monocle_face:
-- Allo :clown_face:
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KishiniCHL&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
