@@ -37,6 +37,12 @@
 
 
 <h3>Some art I made</h3>
+<p>
+<img src="https://pbs.twimg.com/media/FS1Pr7NWUAM6aWB?format=jpg&name=medium" width="200" />
+<img src="https://pbs.twimg.com/media/FKdyS1kXoAI3I8d?format=png&name=small" width="240" />
+<img src="https://pbs.twimg.com/media/FIrPkDJX0AMy6E4?format=jpg&name=small" width="221" />
+</p>
+
 
 <h3>Things I enjoy during my free time</h3>
 
