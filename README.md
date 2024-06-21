@@ -11,7 +11,7 @@
 ------
 
 <h3>Welcome to my page !</h3>
-<p>I'm Hoai-Lan and i'm currently a second year student at IIM Digital School in <img src="https://camo.githubusercontent.com/810c0059ec880d3bf22c12f8ecd24d39ae1c9ee5d294cd397e6f414738d9cdd8/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" height="15" width="15"/> and i'm studying Code and Digital Innovation.<br> I'm also a freelance artist :art: </p>
+<p>I'm Hoai-Lan and i'm currently a second year student at IIM Digital School and i'm studying Code and Digital Innovation.<br> I'm also a freelance artist :art: </p>
 
 <h3>Things I use for work</h3>
 
@@ -37,14 +37,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KishiniCHL&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3>Some art I made</h3>
-<p>
-<img src="https://pbs.twimg.com/media/FS1Pr7NWUAM6aWB?format=jpg&name=medium" width="200" />
-<img src="https://pbs.twimg.com/media/FKdyS1kXoAI3I8d?format=png&name=small" width="240" />
-<img src="https://pbs.twimg.com/media/FIrPkDJX0AMy6E4?format=jpg&name=small" width="221" />
-</p>
-
-
 <h3>Things I enjoy during my free time</h3>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
@@ -54,15 +46,5 @@
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-
-
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kishini&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=kishini&redirect=true)
-
-
-<h3 align="left">Contact me :</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hoai-lan-dinh-vu-17a98823b/" target="blank"><img align="center" src="img/linkdin.png" alt="" height="40" width="40" /></a>
-</p>
 
 
